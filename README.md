@@ -2,6 +2,6 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=AhmedDip&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<h1 align="center"> Hi, This is Dip <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 
