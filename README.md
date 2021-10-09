@@ -1,9 +1,4 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=cambria&size=30&lines=Hi,+Welcome+to+my+GitHub;Currently+I'm+learning+ReactJs;Passionate+about+Developing">
-  </a>
-</h1>
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
@@ -44,3 +39,9 @@
 
 
 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=cambria&size=30&lines=Hi,+Welcome+to+my+GitHub;Currently+I'm+learning+ReactJs;Passionate+about+Developing">
+  </a>
+</h1>
