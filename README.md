@@ -17,6 +17,27 @@
   <a href="https://ahmeddip.github.io/my-portfolio" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=globe&bgc=4d8fac&acol=gold"></a> 
 </p> 
 </div>
+
+## ⚡ Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=Laravel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedDip&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDip&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmedDip.AhmedDip)
  
 ![Profile views](https://gpvc.arturio.dev/AhmedDip)
 
