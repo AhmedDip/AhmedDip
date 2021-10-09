@@ -37,9 +37,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedDip&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDip&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmedDip.AhmedDip)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmedDip.AhmedDip) ![Profile views](https://gpvc.arturio.dev/AhmedDip)
  
-![Profile views](https://gpvc.arturio.dev/AhmedDip)
+
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
